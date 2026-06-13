@@ -1,0 +1,4 @@
+clover=99
+Rose=8
+Cactus=22
+Rose=3
